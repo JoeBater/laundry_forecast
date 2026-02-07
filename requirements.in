@@ -1,0 +1,5 @@
+pandas
+apache-airflow
+datetime
+requests
+python-dotenv
